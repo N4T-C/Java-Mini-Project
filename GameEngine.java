@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// ======================== GAME ENGINE ========================
+// ======================== GAME ENGINE =======================
 public class GameEngine {
     private User user;
     private Scanner scanner;
